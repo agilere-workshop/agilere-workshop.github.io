@@ -26,7 +26,7 @@ We welcome contributions that pertain to any aspects of Agile RE. This is a comm
  * Agile RE education and training;
  * New or revised theories of RE in agile settings.
 
- ## Workshop Format
+## Workshop Format
  
 The AgileRE workshop will have a varied program with different activities that are designed to allow for discussion and exchange of views. We aim to combine the advantages of traditional, paper-based workshops for academics with the accessibility of paperless workshops for practitioners. We also aim to include mini-tutorials and discussion sessions into the program.
 
