@@ -21,6 +21,8 @@ author: Fabiano Dalpiaz and Jan-Philipp Steghöfer
 
 navbar-links:
   Call for Papers: "cfp"
+  Important Dates: "dates"
+  Submit!: "https://easychair.org/conferences/?conf=agilere2024"
   Organisation: 
     - Organisers: "organisers"
     - Program Committee: "pc"
@@ -128,16 +130,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#CDC392"
+navbar-text-col: "#304C89"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#E8E5DA"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+link-col: "#304C89"
+hover-col: "#648DE5"
+footer-col: "#9EB7E5"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#648DE5"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image

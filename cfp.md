@@ -40,7 +40,7 @@ The AgileRE workshop will have three options for contributions:
  * A *presentation proposal* option, which is mostly aimed at practitioners. Interested parties can submit a short summary (1 page) of a presentation they intend to hold. 
  * A *mini-tutorial proposal*, which is aimed at both academics and practitioners. Interested parties can submit a short summary of the tutorial they intend to give. These mini-tutorials are expected to take 30--45 minute each.
 
- All papers have to be submitted using EasyChair. *The deadline for submission is February 9, 2024, anywhere on earth.*
+ All papers have to be submitted using [EasyChair](https://easychair.org/conferences/?conf=agilere2024). *The deadline for submission is February 9, 2024, anywhere on earth.*
 
 All types of contributions will be reviewed by the program committee, which consists of renowned experts in the field (see next section for some candidates). Papers will be reviewed based on novelty, relevance, rigor, verifiability, and presentation. Presentations will be reviewed based on relevance; tutorials will be reviewed based on relevance, duration, expected outcome, and pedagogical approach.
 Each contribution will be reviewed by at least three program committee members in a single-blind process, following good scientific practice.
