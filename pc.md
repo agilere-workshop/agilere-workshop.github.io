@@ -5,6 +5,7 @@ title: Program Committee
 
 - *Maya Daneva*, University of Twente, Netherlands
 - *Thomas Fehlmann*, Euro Project Office AG, Switzerland
+- *Markus Fockel*, Fraunhofer IEM, Germany
 - *Smita Ghaisas*, Tata Research Development and Design Center, India
 - *Anne Hess*, Fraunhofer IESE, Germany
 - *Sylwia Kopczyńska*, Poznan University of Technology, Poland
