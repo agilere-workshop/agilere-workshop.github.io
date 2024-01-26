@@ -29,7 +29,7 @@ influence and optimize collaboration between both worlds.
 
 ![Picture of Markus Meuten]({{ '/assets/img/meuten.jpg' | relative_url }})
 
-Markus Meuten, an agile coach and trainer with extensive experience, specializes in agile product development, focusing on requirements engineering, business process modeling, and optimization, along with educating product owners and managers. His expertise, rooted in advanced training from industry luminaries like Ken Schwaber, Dr. Jeff Sutherland, Dean Leffingwell, Jeff Patton, and and others, is applied in numerous international projects.
+Markus Meuten ([LinkedIn profile](https://www.linkedin.com/in/markusmeuten/)), an agile coach and trainer with extensive experience, specializes in agile product development, focusing on requirements engineering, business process modeling, and optimization, along with educating product owners and managers. His expertise, rooted in advanced training from industry luminaries like Ken Schwaber, Dr. Jeff Sutherland, Dean Leffingwell, Jeff Patton, and and others, is applied in numerous international projects.
 
 Beginning his career as a Business Analyst and Requirements Manager, Markus transitioned through roles as Scrum Master and Product Owner, evolving into an Agile Coach. This journey has equipped him with a profound understanding of the challenges in agile product development, enabling him to offer practical solutions.
 
