@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keynote: Markus Meuten &mdash; The future of requirements engineering in the agile era
+title: Keynote by Markus Meuten
 ---
 
 ## A FAREWELL OR A NEW DIRECTION? The future of requirements engineering in the agile era
