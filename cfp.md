@@ -34,13 +34,13 @@ The AgileRE workshop will have a varied program with different activities that a
 
 The AgileRE workshop will have three options for contributions:
 
- * A classic *paper submission* option, which we anticipate will mostly be used by academics. Paper submission will follow the REFSQ standards w.r.t. formatting for workshops (CEUR-Art single column template).
+ * A classic *paper submission* option, which we anticipate will mostly be used by academics. Paper submission will follow the REFSQ standards w.r.t. formatting for workshops ([CEUR-Art single column template](http://ceur-ws.org/Vol-XXX/CEURART.zip), also available as an [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw)).
    * Full paper (up to 8 pages + 1 for references), describing a technical solution, an experience, a case study, or other scientific contributions pertaining to the topic of the workshop.
    * Short paper (up to 4+1 pages) -- presenting a vision or perspective regarding the identity, distinguishing traits and future of Agile RE.
  * A *presentation proposal* option, which is mostly aimed at practitioners. Interested parties can submit a short summary (1 page) of a presentation they intend to hold. 
  * A *mini-tutorial proposal*, which is aimed at both academics and practitioners. Interested parties can submit a short summary of the tutorial they intend to give. These mini-tutorials are expected to take 30--45 minute each.
 
- All papers have to be submitted using [EasyChair](https://easychair.org/conferences/?conf=agilere2024). *The deadline for submission is February 9, 2024, anywhere on earth.*
+ All papers have to be submitted using [EasyChair](https://easychair.org/conferences/?conf=agilere2024). *The deadline for submission is February 16, 2024, anywhere on earth.* Please submit your abstract by *February 9*.
 
 All types of contributions will be reviewed by the program committee, which consists of renowned experts in the field (see next section for some candidates). Papers will be reviewed based on novelty, relevance, rigor, verifiability, and presentation. Presentations will be reviewed based on relevance; tutorials will be reviewed based on relevance, duration, expected outcome, and pedagogical approach.
 Each contribution will be reviewed by at least three program committee members in a single-blind process, following good scientific practice.
