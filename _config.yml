@@ -20,12 +20,11 @@ author: Fabiano Dalpiaz and Jan-Philipp Steghöfer
 ###############################################
 
 navbar-links:
-  Call for Contributions: "cfp"
   Program:
     - Keynote: "keynote"
     - Schedule: "schedule"
   Important Dates: "dates"
-  Submit!: "https://easychair.org/conferences/?conf=agilere2024"
+  Call for Contributions: "cfp"
   Organisation: 
     - Organisers: "organisers"
     - Program Committee: "pc"
