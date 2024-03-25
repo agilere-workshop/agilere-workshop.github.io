@@ -9,7 +9,7 @@ For details of the different items in the schedule, please refer to the [accepte
 |---:|---|---|---|
 | 9:00 | Welcome |  | Fabiano Dalpiaz and Jan-Philipp Steghöfer |
 | 9:15 | Keynote | [A FAREWELL OR A NEW DIRECTION? The future of requirements engineering in the agile era]({{ '/keynote' | relative_url }}) | Markus Meuten |
-| 10:15 | [Game Break]({{ '/gamebreak' | relative_url }}) | The Headstand Method | Luise Büscher and Nadine Porkert |
+| 10:15 | Game Break | [The Headstand Method]({{ '/gamebreak' | relative_url }}) | Luise Büscher and Nadine Porkert |
 | 10:30 | *Coffee Break* |  |  |
 | 11:00 | Talk | [Agile transition - Who owns the requirements?]({{ '/wohlgemuth' | relative_url }}) | Andrea Wohlgemuth |
 | 11:30 | Paper Presentation | [What’s Ready in a DoR? Rationales, Responsibility & Rules in using a Definition of Ready]({{ '/vanriesen' | relative_url }}) | Mark van Riesen and Gerard Wagenaar |
